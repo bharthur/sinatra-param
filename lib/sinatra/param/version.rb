@@ -1,5 +1,5 @@
 module Sinatra
   module Param
-    VERSION = '1.6.0'
+    VERSION = '0.0.1'
   end
 end
